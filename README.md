@@ -1,2 +1,2 @@
 # Oberau-Pages
-The web-site for Oberau
+The web-site for Oberau.
