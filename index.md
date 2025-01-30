@@ -38,6 +38,14 @@ Hier werden Ihre Hochzeiten, Familienfeiern, Parties, kleinen Konzerte oder Thea
 Wir arbeiten zusammen mit seriösen und für ihre erlesene Küche renommier­ten Catering Services, die zu einer ausdruck- und stilvollen Feier beitragen. 
 Wir und Ihr Catering-Service sind in der Lage auf Ihre persönlichen Wünsche einzugehen, um Ihrer Feier eine einmalige Note zu verleihen.
 
+## Schloss
+
+Lirum larum Löffelstiel
+
+## Kuhstall
+
+Lirum larum Löffelstiel
+
 # Camping
 
 ## Privater Campingplatz Oberau
@@ -66,7 +74,6 @@ Fax: 09573/ 268<br/>
 Email: info@schloss-oberau.de
 
 ## Datenschutzerklärung
-I. Name und Anschrift des Verantwortlichen
 
 Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
 
@@ -78,7 +85,6 @@ D-96231 Staffelstein
 Tel: 09573/ 268 (Anrufbeantworter)<br/>
 Fax: 09573/ 268<br/>
 Email: info@schloss-oberau.de
-
 
 ## Name und Anschrift des Datenschutzbeauftragten
 
@@ -116,7 +122,7 @@ Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehm
 Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt. Eine Speicherung kann darüber hinaus erfolgen, wenn dies durch den europäischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen, Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde. Eine Sperrung oder Löschung der Daten erfolgt auch dann, wenn eine durch die genannten Normen vorgeschriebene Speicherfrist abläuft, es sei denn, dass eine Erforderlichkeit zur weiteren Speicherung der Daten für einen Vertragsabschluss oder eine Vertragserfüllung besteht.
 
  
-## Bereitstellung der Website und Erstellung von Logfiles
+<h3>Bereitstellung der Website und Erstellung von Logfiles</h3>
 
 **Beschreibung und Umfang der Datenverarbeitung**
 
