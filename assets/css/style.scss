@@ -1,0 +1,107 @@
+---
+---
+
+@import "{{ site.theme }}";
+/* see: https://github.com/pages-themes/leap-day */
+/* Define the enso colors: */
+$oberau-1: #1A48AA;
+$oberau-2: #1F72C3;
+$oberau-3: #1690D8;
+$oberau-grey-1: #A8A9AC;
+.main-content h1,
+.content h1,
+h1 {
+  color: $oberau-1;
+}
+.main-content h2,
+.content h2,
+h2 {
+  color: $oberau-2;
+}
+.main-content h3,
+.content h3,
+p.h3,
+h3 {
+  color: $oberau-3;
+}
+p.h3 {
+  color: $oberau-3;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 300;
+}
+p.h4 {
+  color: $oberau-3;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 300;
+}
+hr {
+  height: 0; 
+  border: 0; 
+  border-top: 2px solid $oberau-2; 
+}
+.btn {  // background is white in this case
+  color: $oberau-2;
+  border-color: $oberau-2;
+}
+.btn:hover { 
+  color: white;
+  background-color: $oberau-2; 
+//  border-color: $oberau-1; 
+}
+.site-footer-credits {
+  font-style: italic;
+}
+/* inspired by webslides: */
+@media (min-width: 1024px) {
+  svg.size-80,
+  img.size-80 {
+    max-width: 80%; }
+  svg.size-70,
+  img.size-70 {
+    max-width: 70%; }
+  svg.size-60,
+  img.size-60 {
+    max-width: 60%; }
+  svg.size-50,
+  img.size-50 {
+    max-width: 50%; }
+  svg.size-40,
+  img.size-40 {
+    max-width: 40%; }
+  svg.size-30,
+  img.size-30 {
+    max-width: 30%; }
+  svg.size-20,
+  img.size-20 {
+    max-width: 20%; } 
+}
+.my-align-center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; 
+}
+svg.my-align-center,
+img.my-align-center {
+  display: block;
+  margin: .8rem 0 .8rem 0; 
+}
+svg.my-align-right,
+img.my-align-right,
+svg.my-align-left,
+img.my-align-left {
+  margin: .8rem 0 .8rem 0; 
+}
+@media (min-width: 1024px) {
+  svg.my-align-right,
+  img.my-align-right {
+    float: right;
+    margin-left: 1.6rem; }
+}
+@media (min-width: 1024px) {
+  svg.my-align-left,
+  img.my-align-left {
+    float: left;
+    margin-right: 1.6rem; }
+}
