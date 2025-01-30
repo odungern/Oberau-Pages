@@ -75,7 +75,8 @@ Email: info@schloss-oberau.de
 
 ## Datenschutzerklärung
 
-Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
+Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten 
+sowie sonstiger datenschutzrechtlicher Bestimmungen und zugleich Datenschutzbeauftragte ist:
 
 Benedicta Freifrau von Dungern
 
@@ -86,20 +87,8 @@ Tel: 09573/ 268 (Anrufbeantworter)<br/>
 Fax: 09573/ 268<br/>
 Email: info@schloss-oberau.de
 
-## Name und Anschrift des Datenschutzbeauftragten
 
-Die Datenschutzbeauftragte des Verantwortlichen ist:
-
-Benedicta Freifrau von Dungern
-
-Gut Oberau<br/>
-D-96231 Staffelstein
-
-Tel: 09573/ 268 (Anrufbeantworter)<br/>
-Fax: 09573/ 268<br/>
-Email: info@schloss-oberau.de
-
-## Allgemeines zur Datenverarbeitung
+<p class="h3">Allgemeines zur Datenverarbeitung</p>
 
 **Umfang der Verarbeitung personenbezogener Daten**
 
@@ -154,7 +143,7 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 
 Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Daten in Logfiles ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
 
-## E-Mail-Kontakt
+<p class="h3">E-Mail-Kontakt</p>
 
 **Beschreibung und Umfang der Datenverarbeitung**
 
