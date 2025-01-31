@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 /* see: https://github.com/pages-themes/leap-day */
 /* Define the enso colors: */
-$oberau-1: #008000;
-$oberau-2: #00A000;
-$oberau-3: #00C000;
+$oberau-1: #2E7D32; /* https://materialui.co/colors/green/800 */
+$oberau-2: #388E3C; /* https://materialui.co/colors/green/700 */
+$oberau-3: #43A047; /* https://materialui.co/colors/green/600 */
 $oberau-grey-1: #A8A9AC;
 
 header {
