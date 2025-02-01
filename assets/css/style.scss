@@ -9,33 +9,36 @@ $oberau-2: #388E3C; /* https://materialui.co/colors/green/700 */
 $oberau-3: #43A047; /* https://materialui.co/colors/green/600 */
 $oberau-grey-1: #A8A9AC;
 
+body {
+  font: 14px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 header {
   background: $oberau-1;
 }
 .main-content h1,
 .content h1,
 h1 {
-  font: 28px/32px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 28px/36px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: $oberau-1;
 }
 .main-content h2,
 .content h2,
 h2 {
-  font: 24px/27px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 24px/30px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: $oberau-2;
 }
 .main-content h3,
 .content h3,
 p.h3,
 h3 {
-  font: 19px/23px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 20px/26px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: $oberau-3;
 }
 .main-content h4,
 .content h4,
 p.h4,
 h4 {
-  font: 14px/18px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/22px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: $oberau-3;
 }
 hr {
@@ -43,14 +46,13 @@ hr {
   border: 0; 
   border-top: 2px solid $oberau-2; 
 }
-.btn {  // background is white in this case
+.btn {
   color: $oberau-2;
   border-color: $oberau-2;
 }
 .btn:hover { 
   color: white;
   background-color: $oberau-2; 
-//  border-color: $oberau-1; 
 }
 .site-footer-credits {
   font-style: italic;
